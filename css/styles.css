@@ -1,0 +1,9 @@
+.color-cell {
+    height: 100px;
+    width: 290px;
+    transition: background-color 0.3s ease;
+}
+
+.link-opacity-25-hover:hover {
+    opacity: 0.5;
+}
